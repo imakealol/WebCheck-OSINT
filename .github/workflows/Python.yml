@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v3
 
       # 2️⃣ Update the python file
-      - name: Updates by mwakidenis
+      - name: Updates by mwakidenis 
         run: |
           TIMESTAMP_FILE="python.txt"
 
